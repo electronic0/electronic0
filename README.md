@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there, I'm electronic 👋
 
+I'm currently 
 <!--
 **electronic0/electronic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
