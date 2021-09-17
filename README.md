@@ -1,6 +1,7 @@
 # Hi there, I'm electronic 👋
 
-I'm currently 
+- Currently studying
+- Learning HTML, CSS & Javascript
 <!--
 **electronic0/electronic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
