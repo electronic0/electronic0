@@ -1,14 +1,9 @@
-## Hi there, I'm electronic 👋
+## Olá! Seja bem-vindo ao meu perfil do GitHub! 👋 
 
-- Currently studying
-- Learning HTML, CSS & Javascript
-
-### Languages and Tools:
-<a href="https://code.visualstudio.com/" target="_blank" rel="external"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3521796-2945213.png"></a>
-<a href="https://www.w3schools.com/" target="_blank" rel="external"><img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202122html5logosocialsocialmediawebsite-115696_115605.png"></a>
-<a href="https://www.w3schools.com/" target="_blank" rel="external"><img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></a>
-<a href="https://www.javascript.com/" target="_blank" rel="external"><img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/78802199/133803667-9e406f7f-038f-4401-8787-7473a34f3aac.png"></a>
+* Atualmente estou aprendendo e estudando linguagem de programação Python
+* Acesse meu repositorio de [Projetos](https://github.com/electronic0/Projetos) que eu faço durante o meu aprendizado
+#### Linguagens e Programas que uso:
+<a href="https://code.visualstudio.com/" target="_blank" rel="external"><img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
+<a href="https://git-scm.com/" target="_blank" rel="external"><img align="left" alt="Git" width="26px" src="https://global.synologydownload.com/download/Package/img/Git/2.39.1-1079/thumb_256.png"></a>
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-<a href="https://nodejs.org/en/" target="_blank" rel="external"><img align="left" alt="Node.js" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/05/Artboard_4.png"></a>
-<a href="https://git-scm.com/" target="_blank" rel="external"><img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/78802199/133805217-72dafc12-172b-4359-a9c9-a786e8ddec38.png"></a>
-<!--https://www.w3schools.com/-->
+<a href="https://www.python.org/" target="_blank" rel="external"><img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png"></a>
