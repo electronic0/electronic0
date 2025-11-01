@@ -1,0 +1,92 @@
+# Configurações que utilizo no Visual Studio Code
+# 01/11/25
+
+# Extensões
+
+- Database Client JDBC
+- Discord Rich Presence
+- GitHub Theme
+- Language Support for Java(TM) by Red Hat
+- Live Server (Five Server)
+- MySQL
+- Portuguese (Brazil) Language Pack for Visual Studio Code
+- vscode-icons
+
+# Configurações do settings.json
+
+{
+    "breadcrumbs.enabled": false,
+    "chat.disableAIFeatures": true,
+    "database-client.autoSync": true,
+    "database-client.enableSQLVariable": false,
+    "database-client.highlightSQLBlock": false,
+    "database-client.bindConnectionByActiveMark": false,
+    "database-client.enableEditorCodeLens": false,
+    "database-client.splitEditorWhenQuery": true,
+    "editor.fontSize": 20,
+    "editor.fontFamily": "JetBrainsMono Nerd Font, monospace",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.selectionHighlight": false,
+    "editor.occurrencesHighlight": "off",
+    "editor.matchBrackets": "never",
+    "editor.renderLineHighlight": "none",
+    "editor.cursorStyle": "line",
+    "editor.renderWhitespace": "none",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.hover.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnSave": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.folding": false,
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "editor.lineHeight": 1.7,
+    "editor.cursorHeight": 27,
+    "editor.lineDecorationsWidth" : 35,
+    "editor.smoothScrolling": true,
+    "editor.accessibilitySupport": "off",
+    "editor.find.cursorMoveOnType": false,
+    "editor.showFoldingControls": "never",
+    "explorer.openEditors.visible": 1,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "explorer.decorations.colors": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveDelay": 250,
+    "git.decorations.enabled": false,
+    "git.autofetch": true,
+    "java.server.launchMode": "LightWeight",
+    "java.configuration.workspaceCacheLimit": 1,
+    "java.inlayHints.parameterNames.enabled": "none",
+    "java.signatureHelp.enabled": false,
+    "java.completion.guessMethodArguments": "off",
+    "redhat.telemetry.enabled": false,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "terminal.integrated.stickyScroll.enabled": false,
+    "telemetry.feedback.enabled": false,
+    "window.restoreWindows": "none",
+    "window.commandCenter": false,
+    "window.autoDetectColorScheme": true,
+    "window.title": " ",
+    "window.menuBarVisibility": "compact",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.tips.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Light Default",
+    "workbench.layoutControl.enabled": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+}
