@@ -2,6 +2,7 @@
 
 * Atualmente estou aprendendo e estudando linguagem de programação <a href="https://www.java.com/pt-BR/" target="_blank" rel="external">Java</a>
 * Acesse meu repositorio de [Projetos](https://github.com/electronic0/Projetos) que eu faço durante o meu aprendizado
+* Minhas [configurações](https://github.com/electronic0/electronic0/blob/main/config.txt) do Visual Studio Code
 #### Linguagens e programas que uso ou tenho conhecimento:
 <a href="https://code.visualstudio.com/" target="_blank" rel="external"><img align="left" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/assets/apple-touch-icon.png"></a>
 <a href="https://git-scm.com/" target="_blank" rel="external"><img align="left" alt="Git" width="30px" src="https://global.synologydownload.com/download/Package/img/Git/2.39.1-1079/thumb_256.png"></a>
