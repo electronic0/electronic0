@@ -1,0 +1,102 @@
+img {
+        width: 50px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
+        gap: 10px;
+    }
+
+    .vscode {
+        background-image: url('../images/icons/vscodeicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .vscode:hover {
+        background-color: #24A8F2;
+        background-image: url('../images/animation/vscode.gif');
+    }
+
+    .git {
+        background-image: url('../images/icons/giticon.png');
+        transition: background-color 0.25s;
+    }
+
+    .git:hover {
+        background-color: #F39884;
+        background-image: url('../images/animation/git.gif');
+    }
+
+    .github {
+        background-image: url('../images/icons/githubicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .github:hover {
+        background-color: #787878;
+        background-image: url('../images/animation/github.gif');
+    }
+
+    .python {
+        background-image: url('../images/icons/pythonicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .python:hover {
+        background-color: #007AAC;
+        background-image: url('../images/animation/python.gif');
+    }
+
+    .java {
+        background-image: url('../images/icons/javaicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .java:hover {
+        background-color: #F56A4E;
+        background-image: url('../images/animation/java.gif');
+    }
+
+    .mysql {
+        background-image: url('../images/icons/mysqlicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .mysql:hover {
+        background-color: #657D88;
+        background-image: url('../images/animation/mysql.gif');
+    }
+
+    .html {
+        background-image: url('../images/icons/htmlicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .html:hover {
+        background-color: #F39884;
+        background-image: url('../images/animation/html.gif');
+    }
+
+    .css {
+        background-image: url('../images/icons/cssicon.png');
+        transition: background-color 0.25s;
+    }
+
+    .css:hover {
+        background-color: #8E5BC0;
+        background-image: url('../images/animation/css.gif');
+    }
+
+    .container > a {
+        border-radius: 10px;
+        background-size: 50px 50px;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 60px;
+        padding: 10px;
+    }
