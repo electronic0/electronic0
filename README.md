@@ -1,9 +1,5 @@
-<head>
-    <link rel="stylesheet" href="style/style.css">
-</head>
-
 # Olá, me chamo Pedro Luiz 👋
-<h3>Sobre mim</h3>
+<h3 style="font-size: 22px">Sobre mim</h3>
 <p>Sou um programador back-end curioso, dedicado e apaixonado em aprender. Sempre solucionando problemas, fazendo pequenos projetos e buscando aprender novas tecnologias.</p>
 
 
